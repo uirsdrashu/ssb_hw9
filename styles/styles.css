@@ -188,3 +188,71 @@ header {
   color: #fff;
   background-color: #000;
 }
+
+/*Load More start*/
+.container3 {
+  text-align: center;
+  
+}
+.container3 button {
+  padding: 15px 40px;
+  background: transparent;
+  border: none;
+  border: 1px solid #626262;
+  font-family: 'Playfair Display', serif;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.container3 button:hover {
+  color: #fff;
+  background-color: #626262;
+}
+/*Load More start*/
+
+/*Footer start*/
+
+
+.bg {
+  margin-top: 100px;
+  background-color: #f0f0f0;
+  height: 80px;  
+}
+.terms {
+  width: 30%
+}
+.terms ul {
+
+}
+.terms ul li {
+  list-style: none;
+  float: left;
+}
+.terms ul li a {
+  margin: 17px 20px;
+  display: inline-block;
+  color: #626262;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.terms ul li:first-child a {
+  margin-left: 0;
+}
+
+.social {
+}
+.social ul {
+  float: right;
+}
+.social ul li {
+  list-style: none;
+  float: left;
+  margin: 0 10px;
+}
+
+.social ul li span {
+  font-size: 14px;
+}
+/*Footer End*/
